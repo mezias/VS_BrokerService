@@ -1,0 +1,140 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/handlers/responses/BrokerResponse.java" timestamp="1464789042117">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/handlers/requestForm/BrokerForm.java" timestamp="1464788363294">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/models/repositories/BrokersRepository.java" timestamp="1464789234085">
+        <mark key="[" line="35" column="76" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/BrokerServices.java" timestamp="1464787970666">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="74" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoardService/src/main/java/models/Board.java" timestamp="1464788804468" />
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/models/repositories/provider/RepositoryProvider.java" timestamp="1464787610164">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoardService/src/main/java/models/repositories/BoardRepositoryWithMap.java" timestamp="1464787063795" />
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/models/repositories/exception/CannotCreateException.java" timestamp="1464789103000">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/handlers/responses/BrokersResponse.java" timestamp="1464787909975">
+        <mark key="[" line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/transformer/JsonTransformer.java" timestamp="1464787818695">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="18" column="79" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/handlers/responses/BrokerRespose.java" timestamp="1464788001379">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/handlers/BrokersHandler.java" timestamp="1464788926106">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoardService/src/main/java/handlers/BoardHandler.java" timestamp="1464785314435" />
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/models/repositories/IBrokersRepository.java" timestamp="1464789139498">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoardService/src/main/java/models/repositories/RepositoryProvider.java" timestamp="1464788600481" />
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/src/main/java/models/Broker.java" timestamp="1464789069070">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/VS_BrokerService/pom.xml" timestamp="1464787262713">
+        <mark key="[" line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">Ii9icm9rZXJzIiwgKHJlcXVlc3QsIHJlc3BvbnNlKSAtPiBicm9rZXJzSGFuZGxlci5nZXRBbGxCcm9rZXIocmVxdWVzdCwgcmVzcG9uc2UpLCBqc29uVHJhbnNmb3JtZXI=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>estates</text>
+      </register>
+      <register name="3" type="4">
+        <text>game</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>object</text>
+      </register>
+      <register name="6" type="4">
+        <text>getAllBroker</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Ii9icm9rZXJzIiA=</text>
+      </register>
+      <register name="8" type="4">
+        <text>JsonAutoDetect</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text>estates</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
