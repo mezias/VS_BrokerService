@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>M.E.A.N Todo App with Angular 2.0</title>
+    <link rel="stylesheet" href="vendor/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <script src="/vendor/dist/es6-shim.js" ></script>
+</head>
+<body>
+    <div class="container">
+        <todo-app>
+            <h2 class="text-center">Loading M.E.A.N Todo App</h2>
+        </todo-app>
+    </div>
+    <script>
+        Systems.paths ={
+            'angular2/*':'/vendor/angular2/*.js',
+            'rtts_assert/*':'/vendor/angular2/*.js',
+            'rx/*':'/vendor/node_modules/rx/*.js',
+            'todo-app':'components/todo-app/todo-app.es6',
+            'xhr-factory':'services/xhr-factory.es6',
+            'todos-factory':'services/todos-factory.es6'
+        };
+    </script>
+</body>
+</html>
